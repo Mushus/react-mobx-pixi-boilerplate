@@ -6,7 +6,7 @@
     "dependencies": {
         "@types/simple-peer": "^6.1.4",
         "add": "^2.0.6",
-        "axios": "^0.18.0",
+        "axios": "^0.18.1",
         "mobx": "^4.2.1",
         "mobx-react": "^5.1.2",
         "normalize.css": "^8.0.0",
