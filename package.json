@@ -13,7 +13,7 @@
         "pixi.js": "^4.7.3",
         "prettier": "^1.12.1",
         "query-string": "^6.1.0",
-        "react": "^16.3.2",
+        "react": "^16.9.0",
         "react-dom": "^16.3.2",
         "react-mobx": "^0.0.3",
         "react-pixi-fiber": "^0.4.4",
